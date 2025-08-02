@@ -7,9 +7,8 @@ This system is designed to help track and verify the traceability of forest prod
 ## 📑 Ex ภาพตัวอย่างระบบที่ใช้การจัดการ วิเคราะห์ และแสดงผลข้อมูลเชิงพื้นที่
 <img width="1883" height="776" alt="baasemap_GIS" src="https://github.com/user-attachments/assets/383a462d-25b8-48cc-8203-fbe133235d2e" />
 <img width="1577" height="781" alt="baasemap_GIS2" src="https://github.com/user-attachments/assets/84e6b4f6-b55e-4f74-8512-78408cda215c" />
-<img width="1859" height="783" alt="baasemap_GIS3" src="https://github.com/user-attachments/assets/59abab50-f478-445e-8bc4-99226ca4f55b" />
 <img width="1834" height="778" alt="baasemap_GIS5" src="https://github.com/user-attachments/assets/2d41c5a7-8c74-4e0d-a274-6c847f04ff14" />
-<img width="1870" height="783" alt="baasemap_GIS4" src="https://github.com/user-attachments/assets/038c8966-de4a-4d71-ae35-b4c0b80d60de" />
+
 
 ---
 
@@ -86,7 +85,8 @@ The system allows for:
 - **Project Report Generation**  
   Export reports summarizing compliance, project activities, and audit trails.  
   **การสร้างรายงานโครงการ**: สรุปกิจกรรมโครงการ ความสอดคล้อง และประวัติการตรวจสอบ
-
+<img width="1859" height="783" alt="baasemap_GIS3" src="https://github.com/user-attachments/assets/59abab50-f478-445e-8bc4-99226ca4f55b" />
+<img width="1870" height="783" alt="baasemap_GIS4" src="https://github.com/user-attachments/assets/038c8966-de4a-4d71-ae35-b4c0b80d60de" />
 <img width="1917" height="787" alt="Image" src="https://github.com/user-attachments/assets/d71742b7-0f68-47db-a507-07459eca8d89" />
 <img width="333" height="997" alt="Image" src="https://github.com/user-attachments/assets/8c6573bb-d5ac-4b93-88fb-5e6fe03528e9" />
 ---
